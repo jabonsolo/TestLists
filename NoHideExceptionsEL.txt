@@ -1,17 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202003021212
 ! Title: NoHideExceptions EasyList
-! Last modified: 02 Mar 2020 12:12 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
-! 
-! Please report any unblocked adverts or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist.subscription@gmail.com).
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
-! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 &act=ads_
