@@ -2,8 +2,6 @@
 ! Version: 202005121247
 ! Title: EasyList Germany 2020-05-01
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: %timestamp%
-! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 

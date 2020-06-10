@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202005120842
 ! Title: Liste FR 2020-04-09
-! Last modified: 12 May 2020 08:42 UTC
-! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
 ! Homepage: https://forums.lanik.us/viewforum.php?f=91
 ! Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/
