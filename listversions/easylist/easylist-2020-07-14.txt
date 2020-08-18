@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202007211126
 ! Title: EasyList 2020-07-14
-! Title: EasyList
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
