@@ -1,4 +1,4 @@
-name: Run scheduled action
+name: Push Filter Lists snapshot
 on:
   workflow_dispatch:
   schedule:
@@ -6,7 +6,7 @@ on:
     - cron: "0 0 1 * *"
 
 jobs:
-  pull_data:
+  push_data:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout code
@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
 
       # If using Python:
-      - name: Set up Python 3.8
+      - name: Set up Python 3.9
         uses: actions/setup-python@v2
         with:
           python-version: "3.9"
@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       # If using Python:
-      - name: Pull data
+      - name: Run script
         run: python3 main.py -d$(date +"%Y-%m-%d")
 
       # NOTE: This commits everything in the `data` directory. Make sure this matches your needs
@@ -35,11 +35,11 @@ jobs:
           git add snapshots
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Commiting filterlists snapshot"
+          git commit -m "Commit filter lists snapshot"
 
       # NOTE: Check that your branch name is correct here
       - name: Git push
         run: |
-          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
