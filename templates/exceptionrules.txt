@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Allow nonintrusive advertising
+! Expires: 1 days
+! Homepage: https://acceptableads.com/
+!
+%include https://gitlab.com/eyeo/filterlists/exceptionrules/-/raw/(branch)/exceptionrules/exceptionrules.txt%
+%include https://gitlab.com/eyeo/filterlists/exceptionrules/-/raw/(branch)/exceptionrules/exceptionrules-minimal.txt%
+%include https://gitlab.com/eyeo/filterlists/exceptionrules/-/raw/(branch)/exceptionrules/exceptionrules-no-third-party-tracking.txt%
+%include https://gitlab.com/eyeo/filterlists/exceptionrules/-/raw/(branch)/exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt%

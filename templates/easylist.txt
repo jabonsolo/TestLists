@@ -1,0 +1,44 @@
+[Adblock Plus 2.0]
+! Title: EasyList
+! Last modified: %timestamp%
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+!
+!-----------------------General advert blocking filters-----------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_general_block_dimensions.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_general_block_popup.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_allowlist_general_hide.txt%
+!---------------------------Third-party advertisers---------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_adservers.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_adservers_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_adservers.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_adservers_popup.txt%
+!-----------------------------Third-party adverts-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_thirdparty_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_thirdparty_popup.txt%
+!----------------------Specific advert blocking filters-----------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_specific_block_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_specific_block_popup.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_specific_hide.txt%
+!-----------------------Whitelists to fix broken sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_allowlist.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_allowlist_dimensions.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist/easylist_allowlist_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_allowlist.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/(branch)/easylist_adult/adult_allowlist_popup.txt%

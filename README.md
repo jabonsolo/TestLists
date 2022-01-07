@@ -13,9 +13,6 @@ This folder contains a subfolder for each different list and inside them there a
 ## [/testlists](https://github.com/jabonsolo/TestLists/tree/master/testlists)
 This folder contains different lists modified by myself based on EasyList. They contain different cases I want to test.
 
-## [/otherlists](https://github.com/jabonsolo/TestLists/tree/master/otherlists)
-Lists inside this folder could be moved to ```/testlists``` as those lists contains a subset of filters from EasyList based on the difference of two EasyList versions.
-
 # Licence
 All lists are under different types of licences and they are listed below:
 

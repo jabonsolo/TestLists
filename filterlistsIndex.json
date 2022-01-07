@@ -1,0 +1,91 @@
+[
+  {
+    "name": "ABP Filters",
+    "url": "https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt",
+    "template": "abp-filters-anti-cv.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/abp-filters/abp-filters-anti-cv",
+      "name": "abp-filters-anti-cv",
+      "owner": "abp-filters"
+    }
+  },
+  {
+    "name": "EasyPrivacy",
+    "url": "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
+    "template": "easyprivacy.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/easylist",
+      "name": "easylist",
+      "owner": "easylist"
+    }
+  },
+  {
+    "name": "Fanboy's Social Blocking List",
+    "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+    "template": "fanboy-social.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/easylist",
+      "name": "easylist",
+      "owner": "easylist"
+    }
+  },
+  {
+    "name": "exceptionrules",
+    "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+    "template": "exceptionrules.txt",
+    "repository": {
+      "type": "glab",
+      "url": "https://gitlab.com/eyeo/filterlists/exceptionrules",
+      "name": "exceptionrules",
+      "owner": "exceptionrules",
+      "projectId": "22759008"
+    }
+  },
+  {
+    "name": "EasyList",
+    "url": "https://easylist.to/easylist/easylist.txt",
+    "template": "easylist.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/easylist",
+      "name": "easylist",
+      "owner": "easylist"
+    }
+  },
+  {
+    "name": "EasyList Germany",
+    "url": "https://easylist-downloads.adblockplus.org/easylistgermany.txt",
+    "template": "easylistgermany.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/easylistgermany",
+      "name": "easylistgermany",
+      "owner": "easylist"
+    }
+  },
+  {
+    "name": "Liste Ar",
+    "url": "",
+    "template": "liste_ar.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/listear",
+      "name": "listear",
+      "owner": "easylist"
+    }
+  },
+  {
+    "name": "Liste FR",
+    "url": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
+    "template": "listefr.txt",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/easylist/listefr",
+      "name": "listefr",
+      "owner": "easylist"
+    }
+  }
+]

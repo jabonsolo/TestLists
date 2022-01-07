@@ -1,0 +1,38 @@
+[Adblock Plus 3.1]
+! Title: ABP filters
+! Last modified: %timestamp%
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/abp-filters/abp-filters-anti-cv
+!
+! Filter list designed to fight circumvention ads in Adblock Plus
+!
+! Please report any issues
+! on GitHub https://github.com/abp-filters/abp-filters-anti-cv/issues
+! or via filters+cv@adblockplus.org
+! 
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/arabic.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/bulgarian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/chinese.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/czech.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/dutch.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/english.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/fb_non-graph.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/french.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/german.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/hebrew.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/hungarian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/indian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/indonesian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/italian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/latvian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/lithuanian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/mobile-anti-cv.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/nordic.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/polish.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/portuguese.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/romanian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/russian.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/spanish.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/turkish.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/(branch)/vietnamese.txt%
+%include https://raw.githubusercontent.com/abp-filters/abp-filters-hotfix/main/hotfix.txt%

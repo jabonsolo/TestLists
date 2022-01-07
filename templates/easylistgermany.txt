@@ -1,0 +1,35 @@
+[Adblock Plus 1.1]
+! Title: EasyList Germany
+! EasyList Germany - Deutsche Ergänzung zu EasyList
+! Last modified: %timestamp%
+! Expires: 1 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Bitte melde ungeblockte Werbung und fälschlicherweise geblockte Dinge:
+! Forum: https://forums.lanik.us/viewforum.php?f=90
+! E-Mail: easylist.germany@gmail.com
+! GitHub issues: https://github.com/easylist/easylistgermany/issues
+! GitHub pull requests: https://github.com/easylist/easylistgermany/pulls 
+!
+!----------------Allgemeine Regeln zum Blockieren von Werbung-----------------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_general_block_popup.txt%
+!--------Allgemeine Regeln zum Verstecken von Werbung(süberbleibseln)---------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_allowlist_general_hide.txt%
+!---------------------------Third-party Werbeserver---------------------------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_adservers.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_adservers_popup.txt%
+!-----------------------------Third-party Werbung-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_thirdparty_popup.txt%
+!-------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_specific_block_popup.txt%
+!-----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_specific_hide.txt%
+!------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_allowlist.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_allowlist_dimensions.txt%
+%include https://raw.githubusercontent.com/easylist/easylistgermany/(branch)/easylistgermany/easylistgermany_allowlist_popup.txt%

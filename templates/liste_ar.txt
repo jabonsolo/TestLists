@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Liste AR
+! Last modified: %timestamp%
+! Expires: 1 days (fréquence des mises à jour automatiques)
+! Homepage: https://code.google.com/p/liste-ar-adblock/
+!
+!
+%include https://raw.githubusercontent.com/easylist/listear/(branch)/Liste_AR.txt%
